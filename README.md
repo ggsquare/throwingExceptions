@@ -1,1 +1,3 @@
 # throwingExceptions
+
+simple example
